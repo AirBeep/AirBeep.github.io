@@ -10,18 +10,18 @@
 
 <p align="center">
     <a href="https://twitter.com/AirBeepIO" target="_blank" rel="nofollow">
-        <img src="https://github.com/AirBeeps/AirBeeps.github.io/blob/main/images/networks/twitter.svg" alt="Twitter" width="30px" height="30px" />
+        <img src="https://github.com/AirBeep/AirBeep.github.io/blob/main/images/networks/twitter.svg" alt="Twitter" width="30px" height="30px" />
     </a> &nbsp;
     <a href="https://github.com/AirBeep" target="_blank" rel="nofollow">
-        <img src="https://github.com/AirBeeps/AirBeeps.github.io/blob/main/images/networks/github.svg" alt="GitHub" width="30px" height="30px" />
+        <img src="https://github.com/AirBeep/AirBeep.github.io/blob/main/images/networks/github.svg" alt="GitHub" width="30px" height="30px" />
     </a> &nbsp;
     <a href="https://www.kaggle.com/" target="_blank" rel="nofollow">
-        <img src="https://github.com/AirBeeps/AirBeeps.github.io/blob/main/images/networks/kaggle.svg" alt="Kaggle" width="30px" height="30px" />
+        <img src="https://github.com/AirBeep/AirBeep.github.io/blob/main/images/networks/kaggle.svg" alt="Kaggle" width="30px" height="30px" />
     </a> &nbsp;
 </p>
 
 <div class="header">
-<h3 style="color:black;" align="center">Portfolio</h3>
+<h3 style="color:black;" align="center">AirBeep's Portfolio</h3>
   <p style="color:black;">Go to the <kbd><a href="https://airbeep.github.io">GitHub Pages</a></kbd> to view the AirBeep portfolio. Contact me at <kbd><a href="mailto:sercansebetci@gmail.com">sercansebetci@gmail.com</a></kbd> 
 </p>
 </div>
