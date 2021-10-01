@@ -36,6 +36,10 @@
   <a href="https://app.netlify.com/sites/focused-nightingale-b149c3/deploys">
     <img src="https://img.shields.io/netlify/4a808821-f643-42b2-96c5-7bbbd483c2a2" alt="Netlify Status">
   </a>
+  
+  <a href="https://github.com/AirBeep/AirBeep.github.io/issues">
+    <img src="https://img.shields.io/github/issues/AirBeep/AirBeep.github.io.svg?style=flat" alt="GitHub Issues">
+  </a>
 </p>
 
 <div class="header">
