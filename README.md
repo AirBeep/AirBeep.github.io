@@ -40,6 +40,10 @@
   <a href="https://github.com/AirBeep/AirBeep.github.io/issues">
     <img src="https://img.shields.io/github/issues/AirBeep/AirBeep.github.io.svg?style=flat" alt="GitHub Issues">
   </a>
+  
+  <a href="https://AirBeep.github.io">
+    <img src="https://img.shields.io/website/https/AirBeep.github.io/index.html.svg" alt="Website">
+  </a>
 </p>
 
 <div class="header">
