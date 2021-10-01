@@ -20,6 +20,24 @@
     </a> &nbsp;
 </p>
 
+[comment]: # "####################################################################"
+[comment]: # "Repository Badges"
+[comment]: # "This partition should have the following components:"
+[comment]: # "(1) Circle CI"
+[comment]: # "(2) Netfily"
+[comment]: # "(3) Issues"
+[comment]: # "(4) Website"
+[comment]: # "(5) GitHub Release"
+[comment]: # "(6) License"
+[comment]: # "(7) CodeBeat"
+[comment]: # "####################################################################"
+
+<p align="center">  
+  <a href="https://app.netlify.com/sites/focused-nightingale-b149c3/deploys">
+    <img src="https://img.shields.io/netlify/4a808821-f643-42b2-96c5-7bbbd483c2a2" alt="Netlify Status">
+  </a>
+</p>
+
 <div class="header">
   <h3 style="color:black;" align="center"><a href="https://airbeep.github.io">AirBeep</a>'s Portfolio</h3>
   <p style="color:black;">Go to the <kbd><a href="https://airbeep.github.io">GitHub Pages</a></kbd> to view the AirBeep portfolio.</kbd> 
