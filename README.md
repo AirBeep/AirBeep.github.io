@@ -48,6 +48,10 @@
   <a href="https://github.com/AirBeep/AirBeep.github.io/releases">
     <img src="https://img.shields.io/github/release/AirBeep/AirBeep.github.io.svg" alt="GitHub release">
   </a>
+    
+  <a href="https://github.com/AirBeep/AirBeep.github.io/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat" alt="MIT License">
+  </a>
 </p>
 
 <div class="header">
